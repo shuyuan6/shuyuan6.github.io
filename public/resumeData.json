@@ -1,0 +1,68 @@
+{
+  "main": {
+    "name":"Shuyuan Lyu",
+    "occupation":"Stundent of Information Systems @ Northeastern University",
+    "description":"Now I am pursuing my master’s degree in Information systems, and expecting to graduate in May 2022. I am actively working towards becoming a competitive software engineer",
+    "image":"shuyuan_profile.jpg",
+    "bio":"A self-motivated professional with a great passion in software development, demonstrated to be a fast learner and a team player. For the past several years, I have been working in building algorithms and methods for the healthcare and bioengineering industry, improving sensitivity and accuracy for identifying specific pathological patterns. I have in-depth knowledge and hands-on experience in Java and JavaScript programming, relational & non-relational databases, Linux, and network fundamentals.",
+    "contactmessage":"Drop me an email if you would like to find out if I am a fit to the engineer role you are looking for",
+    "email": "sylyu6@gmail.com",
+    "address":{
+      "city":"Seattle",
+      "state":"WA",
+      "zip": "98108"
+    },
+    "website": "https://shuyuan6.github.com",
+    "resumedownload":"https://shuyuan6.github.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shuyuanlyu/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/shuyuan6",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Languages: Java, Javascript, Swift, SQL, Python, HTML, CSS, Matlab Tools, frameworks and technologies: MySQL, SQL Server, Xcode, IntelliJ, MongoDB, AWS, React, JavaFX, Swing, XChart, Tableau, PowerBI, Git, Linux, iOS, TCP/IP, HTTP",
+    "education":[
+      {
+        "school":"Northeastern University",
+        "degree":"Masters in Information Systems",
+        "graduated":"May 2022",
+        "description":"Related courses: Data Mgt and Database Design, OOD in Java, Web Design, Data Structure and Algorithms, Smartphone-based Web Development, etc. GPA: 3.9/4.0 (Running total)"
+      },
+      {
+        "school":"West China School of Medicine, Sichuan University",
+        "degree":"Doctor of Medicine in Ophthalmology",
+        "graduated":"Jun 2013"
+      }
+    ],
+    "work":[
+      {
+        "company":"Department of Bioengineering, Eye Institute at Harborview Medical Center, University of Washington",
+        "title":"Visiting Scientist and Senior Research Fellow",
+        "years":"May 2017 - May 2019",
+        "description":"Designed and implemented algorithms in Matlab for quantification of angiographic morphologic changes in retinal vein occlusion, tested and applied a novel method of attenuation correction on SS-OCT structural scans to facilitate accurate automatic segmentation of the choroid. Designed and implemented algorithms in Python for automated detection of vascular branching characteristics in fundus images, and improved semi-auto segmentation algorithms for volumetric retinal OCT images. Co-designed a clinical prototype of a miniature hand-held optical coherence tomography probe for prematurity and pediatric ophthalmic imaging."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"95%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"80%"
+      }
+    ]
+  }
+}
